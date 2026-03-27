@@ -62,7 +62,7 @@ web_summarizer/
 ### 1️⃣ Clone the Repository
 
 ```bash
-[git clone https://github.com/your-username/web_summarizer.git](https://github.com/Hafiz-Anees/DATA-SCRAPER.git)
+git clone https://github.com/Hafiz-Anees/DATA-SCRAPER.git
 
 ```
 
