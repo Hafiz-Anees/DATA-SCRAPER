@@ -30,7 +30,7 @@ Perfect for students, developers, and researchers who want to quickly understand
 
 ## 🖼️ Demo Preview
 
-> Paste any website URL and instantly get a structured summary!
+[https://a-web-scraper.streamlit.app/](Demo)
 
 ---
 
