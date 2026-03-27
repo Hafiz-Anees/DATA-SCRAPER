@@ -30,7 +30,7 @@ Perfect for students, developers, and researchers who want to quickly understand
 
 ## 🖼️ Demo Preview
 
-[https://a-web-scraper.streamlit.app/](Demo)
+[https://a-web-scraper.streamlit.app/](https://a-web-scraper.streamlit.app/)
 
 ---
 
