@@ -1,4 +1,4 @@
-# 🌐 AI-Powered Website Summarizer
+# 🌐 AI-Powered Web Scraper
 
 Turn any website into a clean, readable summary in seconds using **AI + Web Scraping** 🚀
 
